@@ -1,5 +1,7 @@
 # Description
-A U-Net fully convolutional neural network is trained to predict the presence of a car or other objects for every pixel in a bird's-eye view of the world centered on the car. This probability map can then be thresholded, and boxes can be fitted around each of the detections.
+A U-Net fully convolutional neural network is trained to predict the presence of a car or other objects for every pixel in a bird's-eye view of the world centered on the car. This probability map can then be thresholded, and boxes can be fitted around each of the detections. 
+
+The procedure encompasses the following steps: defining the input and output targets, training a network for object segmentation, performing inference and postprocessing, and visualizing the results.
 
 
 
