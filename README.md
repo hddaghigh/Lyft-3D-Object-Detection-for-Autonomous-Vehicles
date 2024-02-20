@@ -25,19 +25,19 @@ ln -s /kaggle/input/3d-object-detection-for-autonomous-vehicles/train_lidar lida
 
 ## Visualization and results
 
-![Alt text](images\Animation1.gif)
+![Alt text](images/Animation1.gif)
 
-![Alt text](images\Animation2.gif)
+![Alt text](images/Animation2.gif)
 
-![Alt text](images\results_1.png)
+![Alt text](images/results_1.png)
 
-![Alt text](images\results_2.png)
+![Alt text](images/results_2.png)
 
-![Alt text](images\results_3.png)
+![Alt text](images/results_3.png)
 
-![Alt text](images\results_4.png)
+![Alt text](images/results_4.png)
 
-![Alt text](images\results_5.png)
+![Alt text](images/results_5.png)
 
-![Alt text](images\results_6.png)
+![Alt text](images/results_6.png)
 
